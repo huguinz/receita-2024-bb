@@ -1,6 +1,6 @@
 # Landing page - Receita bolo de cenoura
 
-![](./img/bolo-de-cenoura.jpg)
+![](./img/receita.png)
 
 ---
 
