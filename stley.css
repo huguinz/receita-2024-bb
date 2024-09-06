@@ -1,18 +1,23 @@
+body{
+  display:flex;
+  flex-direction: column;
+}
 h1{
     text-align: center;
     color: brown;
     font-size: 43px;
   }
-  #foto{
-    width:55%;
+  img{
+    width: 1000px;
     margin:auto; 
-    display:block
+    align-items: center;
+    justify-content: center;
   }
   h2{
     font-size: 35px;
     color:brown;
    
    }
-  h3,h5{
+  h3{
     color: #000000
   }
